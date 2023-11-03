@@ -1,7 +1,8 @@
 Que contirnt ce projet
+----------------------
     Bootstrap v4.5
     jQuery v3.12
 
-TODO
+## TODO
     Corriger tel bug
     Ajouter la  galarie d'ipmages
